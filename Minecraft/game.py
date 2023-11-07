@@ -1,6 +1,6 @@
 from ursina import *
 from ursina.prefabs.first_person_controller import FirstPersonController
-
+# KOUROSH CREAT1VE
 app = Ursina()
 grass_texture = load_texture('assets/grass_block.png')
 stone_texture = load_texture('assets/stone_block.png')
@@ -85,3 +85,6 @@ sky = Sky()
 hand = Hand()
 
 app.run()
+
+# All Copyright To C1plys 
+Telegram ID : C1PLYS
