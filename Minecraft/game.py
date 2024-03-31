@@ -86,5 +86,5 @@ hand = Hand()
 
 app.run()
 
-# All Copyright To C1plys 
-# Telegram ID : C1PLYS
+# All Copyright To
+# Telegram ID : KouroshCe
